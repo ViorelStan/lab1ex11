@@ -11,7 +11,7 @@
 
 using System.ComponentModel;
 
-Console.WriteLine("Introduceti numarul pe care doriti sa il verifica");
+Console.WriteLine("Introduceti numarul pe care doriti sa il verificam");
 int numar = int.Parse(Console.ReadLine());
 
 switch (numar)
